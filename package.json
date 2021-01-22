@@ -1,0 +1,19 @@
+{
+  "name": "wiffy-decrypt",
+  "version": "1.0.0",
+  "description": "decrypt a private key with wiffy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "wif",
+    "bitcoin",
+    "decrypt"
+  ],
+  "author": "rjmacarthy",
+  "license": "ISC",
+  "dependencies": {
+    "wiffy": "^1.0.0"
+  }
+}
